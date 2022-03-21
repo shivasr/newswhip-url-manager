@@ -1,5 +1,5 @@
-# News Whip URL Manager
-This is a shell application helps to manage URLS and can run analytics on the available URLs. This application offers 
+# NewsWhip URL Manager
+This is a shell application helps to manage URLs and can run analytics on the available URLs. This application offers 
 the below functionalities:
 * Add URL and its score
 * List all URLs and their scores.
@@ -30,7 +30,7 @@ i) Refer to https://docs.docker.com/get-docker/ to install docker
         shivasr/news-whip-shell:1.0.0
 ```
 
-### Hit the REST APIs
+### Hit the functionality
 1. Add spring.io URL and score
 ```shell
 add --url http://spring.io --score 10
